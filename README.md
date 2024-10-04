@@ -1,0 +1,1 @@
+A simple demo project that sets up a complete monitoring and visualization stack using Prometheus, Grafana, and Node Exporter (for system metrics). You'll monitor the metrics of your system and visualize them in Grafana.

@@ -48,4 +48,3 @@ Prometheus needs to scrape metrics from Node Exporter, so configure it as follow
 6. Click Import: After configuring the data source, click Import to complete the process.
 
 Explore and Enjoy
---------------------------------------------------------------------------------------------END-------------------------------------------------------------------------------------------------------
